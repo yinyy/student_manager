@@ -1,5 +1,5 @@
 package net.dyxy.yinyy.student.utils;
 
-public class Tookit {
-
+public class Toolkit {
+	
 }

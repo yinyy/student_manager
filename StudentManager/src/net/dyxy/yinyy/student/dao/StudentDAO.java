@@ -1,5 +1,7 @@
 package net.dyxy.yinyy.student.dao;
 
-public class StudentDAO {
+import net.dyxy.yinyy.student.po.StudentPO;
+
+public interface StudentDAO extends AbstractDAO<StudentPO> {
 
 }
